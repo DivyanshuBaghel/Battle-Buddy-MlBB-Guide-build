@@ -39,13 +39,13 @@ A deep-dive into every hero in the game, including:
 | --- | --- |
 | ![Items](assets/demo/itemRoster.jpg) | ![Strategy](assets/demo/strategy.jpg) |
 
-| In-Game Overlay Hero | In-Game Overlay Strategy |
+| In-Game Overlay Hero | Settings |
 | --- | --- |
-| ![In-Overlay-Hero](assets/demo/overlayHeroData.jpg) | ![In-Overlay-Strategy ](assets/demo/overlayStrategy.jpg) |
+| ![In-Overlay-Hero](assets/demo/overlayHeroData.jpg) | ![Settings](assets/demo/settings.jpg)   |
 
-| Settings |
+| In-Game Overlay Strategy |
 | --- | --- |
-| ![Settings](assets/demo/settings.jpg) |
+| ![In-Overlay-Strategy ](assets/demo/overlayStrategy.jpg) |
 
 ---
 
