@@ -90,7 +90,7 @@ This repository serves as the public face of the project. While the core source 
 
 ## 📲 Download
 
-**Take your gameplay to the next level.** Download the official **Battle Buddy** app from the Google Play Store and start mastering your matches today.
+**Take your gameplay to the next level.** Download the official **Battle Buddy** app from the Google Play Store and start mastering your matches today: [https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline](https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline)
 
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline'>
