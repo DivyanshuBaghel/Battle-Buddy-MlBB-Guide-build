@@ -9,6 +9,21 @@
 <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline&pcampaignid=pcampaignidMKT-Other-global-all-fortheweb-none-all-Queries-None-MyStoreTab'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>
 </a>
+<a href='https://buymeacoffee.com/divyanshubaghel'>
+  <img src='https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=divyanshubaghel&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff' alt='Buy Me A Coffee' width='200'/>
+</a>
+
+## 🎯 Repository Purpose
+
+This repository serves as the **official public showcase** and **community hub** for **Battle Buddy**.
+
+While the application's core source code is proprietary, this space is dedicated to:
+- **Showcasing Features**: Providing a detailed look at the app's capabilities and design.
+- **Bug Reporting**: Ensuring a high-quality experience by tracking and resolving technical issues.
+- **Feature Requests**: Collaborating with the community to shape the future of the app.
+- **Documentation**: Hosting guides and technical details for users and contributors.
+
+---
 
 ## 🚀 The Ultimate Companion
 
@@ -76,6 +91,9 @@ This repository serves as the public face of the project. While the core source 
 
 <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline&pcampaignid=pcampaignidMKT-Other-global-all-fortheweb-none-all-Queries-None-MyStoreTab'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/>
+</a>
+<a href='https://buymeacoffee.com/divyanshubaghel' style='margin-left: 10px;'>
+  <img src='https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=divyanshubaghel&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff' alt='Buy Me A Coffee' width='240'/>
 </a>
 
 ---
