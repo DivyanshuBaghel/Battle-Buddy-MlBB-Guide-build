@@ -4,7 +4,7 @@
 
 ---
 
-![Hero Banner](assets/demo/home.jpg)
+![Hero Banner](assets/demo/overlayHeroData.jpg)
 
 ## 🚀 The Ultimate Companion
 
@@ -31,17 +31,17 @@ A deep-dive into every hero in the game, including:
 
 ## 📸 Visual Showcase
 
-| Home Strategy | Hero Details |
+| Home | Hero Roster |
 | --- | --- |
-| ![Strategy](assets/demo/strategy.jpg) | ![Details](assets/demo/overlayHeroData.jpg) |
+| ![Home](assets/demo/home.jpg) | ![Details](assets/demo/heroRoster.jpg) |
 
 | Item Database | In-Game Overlay |
 | --- | --- |
-| ![Items](assets/demo/itemRoster.jpg) | ![Overlay](assets/demo/overlayStrategy.jpg) |
+| ![Items](assets/demo/itemRoster.jpg) | ![Overlay](assets/demo/overlayHeroData.jpg) |
 
-| Hero Roster | Performance Settings |
+| Strategy | Settings |
 | --- | --- |
-| ![Heroes](assets/demo/heroRoster.jpg) | ![Settings](assets/demo/settings.jpg) |
+| ![Strategy](assets/demo/strategy.jpg) | ![Settings](assets/demo/settings.jpg) |
 
 ---
 
