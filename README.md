@@ -6,6 +6,10 @@
 
 ![Hero Banner](assets/demo/overlayHeroData.jpg)
 
+<a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline&pcampaignid=pcampaignidMKT-Other-global-all-fortheweb-none-all-Queries-None-MyStoreTab'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>
+</a>
+
 ## 🚀 The Ultimate Companion
 
 **MLBB Guide Offline** is a premium, high-performance Android application designed for serious Mobile Legends: Bang Bang players. It provides instant, hardware-accelerated access to hero metadata, tactical counters, and item synergies—all without requiring an active internet connection.
