@@ -8,11 +8,11 @@
 
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline'>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='60'/>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='220'/>
   </a>
   <br>
   <a href='https://buymeacoffee.com/divyanshubaghel'>
-    <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' height='50' />
+    <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' width='220' />
   </a>
 </p>
 
@@ -94,11 +94,11 @@ This repository serves as the public face of the project. While the core source 
 
 <p align="left">
   <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline'>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='70'/>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='260'/>
   </a>
   <br>
   <a href='https://buymeacoffee.com/divyanshubaghel'>
-    <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' height='56' />
+    <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' width='260' />
   </a>
 </p>
 
