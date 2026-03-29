@@ -96,7 +96,13 @@ This repository serves as the public face of the project. While the core source 
   <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='260'/>
   </a>
-  <br>
+</p>
+
+## ☕ Support the Developer
+
+If you find **Battle Buddy** helpful and would like to support its ongoing development, feel free to buy me a coffee!
+
+<p align="left">
   <a href='https://buymeacoffee.com/divyanshubaghel'>
     <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' width='260' />
   </a>
