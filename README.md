@@ -74,10 +74,6 @@ This repository serves as the public face of the project. While the core source 
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/>
 </a>
 
-## 💾 Releases
-
-Stable versions are released as standalone APKs. Check the **Releases** section of this repository for the latest updates.
-
 ---
 
 **Developed by**: Divyanshu Baghel  
