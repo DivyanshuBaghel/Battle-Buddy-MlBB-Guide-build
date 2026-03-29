@@ -66,6 +66,14 @@ This repository serves as the public face of the project. While the core source 
 - **Feature Requests**: Have a new idea for the analyzer? [Suggest a Feature](.github/ISSUE_TEMPLATE/feature_request.md).
 - **Strategy Discussion**: Use the Issues section to discuss hero counters and item synergies.
 
+## 📲 Download
+
+**Take your gameplay to the next level.** Download the official **MLBB Guide Offline** app from the Google Play Store and start mastering your matches today.
+
+<a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline&pcampaignid=pcampaignidMKT-Other-global-all-fortheweb-none-all-Queries-None-MyStoreTab'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/>
+</a>
+
 ## 💾 Releases
 
 Stable versions are released as standalone APKs. Check the **Releases** section of this repository for the latest updates.
