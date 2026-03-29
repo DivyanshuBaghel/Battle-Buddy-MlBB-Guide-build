@@ -1,13 +1,13 @@
-# Project Changelog - MLBB Guide Offline
+# Project Changelog - Battle Buddy
 
-This changelog documents the public development journey of the MLBB Guide Offline project.
+This changelog documents the public development journey of the **Battle Buddy** project.
 
 ---
 
 ## [v0.2.6] - 2026-03-29
-- **Android 15 Optimized** — Fully transition to Android 15 edge-to-edge support with transparent system bars.
-- **Enhanced Overlay Data** — Improved real-time synchronization for guide metadata.
-- **Improved Caching** — Reliable hero and item icon decoding with background scanning.
+- **Android 15 Optimized** — Fully optimized for Android 15 edge-to-edge support with transparent system bars for a distraction-free experience.
+- **Enhanced Overlay Sync** — Faster and more robust real-time synchronization for guide metadata in the smart overlay.
+- **Hardware-Accelerated Caching** — Improved hero and item icon decoding using optimized background scanning to reduce memory footprint.
 
 ---
 
