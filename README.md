@@ -1,4 +1,4 @@
-# MLBB Guide Offline
+# Battle Buddy
 
 **Master the Land of Dawn with the ultimate offline-first gaming companion.**
 
@@ -12,7 +12,7 @@
 
 ## 🚀 The Ultimate Companion
 
-**MLBB Guide Offline** is a premium, high-performance Android application designed for serious Mobile Legends: Bang Bang players. It provides instant, hardware-accelerated access to hero metadata, tactical counters, and item synergies—all without requiring an active internet connection.
+**Battle Buddy** is a premium, high-performance Android application designed for serious Mobile Legends: Bang Bang players. It provides instant, hardware-accelerated access to hero metadata, tactical counters, and item synergies—all without requiring an active internet connection.
 
 ### ✨ Key Features
 
@@ -72,7 +72,7 @@ This repository serves as the public face of the project. While the core source 
 
 ## 📲 Download
 
-**Take your gameplay to the next level.** Download the official **MLBB Guide Offline** app from the Google Play Store and start mastering your matches today.
+**Take your gameplay to the next level.** Download the official **Battle Buddy** app from the Google Play Store and start mastering your matches today.
 
 <a href='https://play.google.com/store/apps/details?id=com.divy.mlbbguideoffline&pcampaignid=pcampaignidMKT-Other-global-all-fortheweb-none-all-Queries-None-MyStoreTab'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/>
