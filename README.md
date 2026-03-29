@@ -10,7 +10,7 @@
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>
 </a>
 <a href='https://buymeacoffee.com/divyanshubaghel'>
-  <img src='https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=divyanshubaghel&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff' alt='Buy Me A Coffee' width='200'/>
+  <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' width='200' />
 </a>
 
 ## 🎯 Repository Purpose
@@ -93,7 +93,7 @@ This repository serves as the public face of the project. While the core source 
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/>
 </a>
 <a href='https://buymeacoffee.com/divyanshubaghel' style='margin-left: 10px;'>
-  <img src='https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=divyanshubaghel&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff' alt='Buy Me A Coffee' width='240'/>
+  <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' width='240' />
 </a>
 
 ---
