@@ -44,7 +44,7 @@ A deep-dive into every hero in the game, including:
 | ![In-Overlay-Hero](assets/demo/overlayHeroData.jpg) | ![Settings](assets/demo/settings.jpg)   |
 
 | In-Game Overlay Strategy |
-| --- | --- |
+| --- |
 | ![In-Overlay-Strategy ](assets/demo/overlayStrategy.jpg) |
 
 ---
